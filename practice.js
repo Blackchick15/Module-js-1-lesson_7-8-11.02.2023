@@ -73,9 +73,9 @@
 // Тернарний оператор
 // // Перепиши if...else з використанням тернарного оператора.
 
-const a = 1;
-const b = 2;
-let result;
+// const a = 1;
+// const b = 2;
+// let result;
 
 // if (a + b < 4) {
 //   result = 'Мало';
@@ -86,4 +86,5 @@ let result;
 
 
 // console.log(result);
+
 
